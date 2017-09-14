@@ -264,7 +264,7 @@
 - Gulp：http://gulpjs.com/
 - Yeoman：http://yeoman.io/
 - Socket.io：http://socket.io/
-- mocha：http://visionmedia.github.io/mocha/
+- mocha：http://mochajs.org/
 - uglifyjs：https://github.com/mishoo/UglifyJS2
 - shelljs：http://documentup.com/arturadib/shelljs
 
